@@ -1,6 +1,6 @@
 # Lasvegas API Listesi
 
-Site leaked dump paylaşmayacağım hiçbir siteye ait veriyi fakat aktif API listelerini paylaşacağım. Api src kodları için telegram'dan ulaşabilirsiniz.
+Site leaked dump paylaşmayacağım hiçbir siteye ait veriyi fakat aktif API listelerini paylaşacağım. Sadece pub apileri paylaştım özel api yazdırmak veya özel api almak için src kod vs. telegramdan ulaşın.
 ☄️ [Click For Contact](https://t.me/tehlikeliadam)<br>
 
 ## API Listesi
@@ -25,6 +25,12 @@ Site leaked dump paylaşmayacağım hiçbir siteye ait veriyi fakat aktif API li
 
 ### NVİ ADRES
 - `https://lasvegasapi.space/apiservice/adres2.php?tc=`
+
+### HANE
+- `https://lasvegasapi.space/apiservice/hane.php?tc=`
+
+### TAPU
+- `https://lasvegasapi.space/apiservice/tapu.php?tc=`
 
 
 
